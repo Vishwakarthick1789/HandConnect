@@ -79,4 +79,4 @@ If you draw a rough circle, a rectangle, or a straight line, HandConnect will au
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vishwakarthick1789/HandConnect/issues).
 
 ---
-*Built to make digital creation feel like magic.*
+*Built to make digital creation feel like a magic.*
