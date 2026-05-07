@@ -36,7 +36,7 @@ HandConnect is a cutting-edge Flutter application that allows users to paint and
    flutter pub get
    ```
 
-## 🎮 How to Run
+## 🎮 How to Run this
 
 ### Windows (Automated Script)
 For the easiest setup on Windows, simply double-click the included batch script:
