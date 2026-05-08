@@ -1,6 +1,6 @@
 # HandConnect ✋🎨
 
-HandConnect is a cutting-edge Flutter application that allows users to paint and draw on their screens using real-time hand gesture tracking. By leveraging high-performance on-device machine learning (TensorFlow Lite), HandConnect maps your finger movements directly to canvas strokes, creating a magical, touch-free drawing experience.
+HandConnectis(Own your Hand) a cutting-edge Flutter application that allows users to paint and draw on their screens using real-time hand gesture tracking. By leveraging high-performance on-device machine learning (TensorFlow Lite), HandConnect maps your finger movements directly to canvas strokes, creating a magical, touch-free drawing experience.
 
 ![HandConnect UI Concept](https://img.shields.io/badge/UI-Glassmorphic-neonCyan)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Web%20%7C%20Mobile-blue)
